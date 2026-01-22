@@ -1,0 +1,36 @@
+
+DIGITAL PRIVACY PROTECTION ACT 2025
+
+SECTION 1: PURPOSE AND SCOPE
+This Act establishes comprehensive regulations for the protection of personal digital information and privacy rights of citizens in the digital age.
+
+SECTION 2: DEFINITIONS
+2.1 "Personal Data" means any information relating to an identified or identifiable natural person.
+2.2 "Data Controller" means the entity which determines the purposes and means of processing personal data.
+2.3 "Data Subject" means the natural person whose personal data is being processed.
+
+SECTION 3: RIGHTS OF DATA SUBJECTS
+3.1 Right to Information: Data subjects have the right to know what personal data is being collected and how it is used.
+3.2 Right to Access: Data subjects can request access to their personal data held by organizations.
+3.3 Right to Rectification: Data subjects can request correction of inaccurate personal data.
+3.4 Right to Erasure: Data subjects can request deletion of their personal data under certain circumstances.
+3.5 Right to Data Portability: Data subjects can request their data in a machine-readable format.
+
+SECTION 4: OBLIGATIONS OF DATA CONTROLLERS
+4.1 Lawful Basis: Personal data shall only be processed with valid legal basis and consent.
+4.2 Data Minimization: Only data necessary for the specified purpose shall be collected.
+4.3 Accuracy: Data controllers must ensure personal data is accurate and up-to-date.
+4.4 Storage Limitation: Personal data shall not be kept longer than necessary.
+4.5 Security: Appropriate technical and organizational measures must be implemented.
+
+SECTION 5: ENFORCEMENT AND PENALTIES
+5.1 The Data Protection Authority is established as the supervisory body.
+5.2 Violations may result in fines up to 4% of annual global turnover or $20 million, whichever is higher.
+5.3 Repeated violations may result in suspension of data processing activities.
+
+SECTION 6: IMPLEMENTATION
+This Act shall come into effect 180 days from the date of publication, allowing organizations time to ensure compliance.
+
+SECTION 7: EXEMPTIONS
+7.1 National security and law enforcement activities are exempt under specific conditions.
+7.2 Household activities and purely personal use are exempt from most provisions.
